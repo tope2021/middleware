@@ -1,4 +1,4 @@
-this is my third project installing sonarqube on centos7
+#this is my third project installing sonarqube on centos7
 #!/bin/bash
 #Description: Installation of sonarqube on centos7
 #Author: Temitope Ojelade Atiku
